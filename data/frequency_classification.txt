@@ -1,4 +1,4 @@
-route,frequency
+route,freq_class
 5030-10-0,1
 6803-10-0,1
 7016-10-0,0
